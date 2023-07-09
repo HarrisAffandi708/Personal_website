@@ -1,0 +1,14 @@
+
+
+.about_me_section{
+    position: fixed;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #7B7B7C;
+    padding-bottom: 10px;
+    gap:20px;
+    top: 0%;
+    left: 0%;
+}
+
